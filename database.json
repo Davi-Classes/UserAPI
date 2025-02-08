@@ -1,0 +1,12 @@
+{
+  "users": {
+    "1": {
+      "id": "4dab631c-dad7-4fdf-973c-8c227abf234c",
+      "name": "Davi",
+      "email": "davi@email.com",
+      "password": "1234",
+      "fl_active": true,
+      "created_at": "2025-02-08T22:30:30.949918+00:00"
+    }
+  }
+}
